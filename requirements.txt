@@ -1,0 +1,15 @@
+flask
+psycopg2
+PyPDF2
+langchain
+langchain_google_genai
+faiss-cpu
+python-dotenv
+werkzeug
+pdf2image
+pytesseract
+requests
+beautifulsoup4
+langchain-community
+
+gunicorn
