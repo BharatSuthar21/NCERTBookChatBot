@@ -40,5 +40,10 @@ For enhanced responses, the chatbot can retrieve relevant images and external li
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/raushan22882917/rag_chatbo.git
-   cd rag_chatbo
+   https://github.com/BharatSuthar21/NCERTBookChatBot.git
+   cd NCERTBookChatBot
+   python -m venv venv
+   venv/Scripts/activate for Window or venv/bin/activate for Linux
+   pip install -r requirments.txt
+   python app.py
+   
